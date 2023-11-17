@@ -4,5 +4,5 @@
 
 ## 목록
 
-- [AJR - OK Orchestra](ok-orchestra/README.md)
-- [AJR - THe Maybe Man](the-maybe-man/README.md)
+- [Twice - likey](likey/README.md)
+- [Twice - Cheer up](cheer-up/README.md)
